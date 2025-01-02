@@ -30,7 +30,7 @@
 
 
 
- <a href="https://replit.com/@mariseltru/Bugatti-pair"><img title="SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
+ <a href="https://mariselpair-11299e6acc1c.herokuapp.com/"><img title="SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
 
 
@@ -45,7 +45,7 @@
 
 🕳️  DEPLOY BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich/Bugatti)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich3/Stored)
 
 ****
 🕳️  DEPLOY ON [ RENDER ]
